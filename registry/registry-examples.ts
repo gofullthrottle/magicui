@@ -1462,7 +1462,9 @@ export const examples: Registry["items"] = [
     type: "registry:example",
     title: "Terminal Demo",
     description: "Example showing a terminal with animated text.",
-    registryDependencies: ["https://magicui.design/r/terminal"],
+    registryDependencies: [
+      "https://raw.githubusercontent.com/magicuidesign/magicui/refs/heads/dillion/registry-v0-fix/public/r/terminal.json",
+    ],
     files: [
       {
         path: "example/terminal-demo.tsx",

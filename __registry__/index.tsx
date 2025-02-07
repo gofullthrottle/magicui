@@ -3872,7 +3872,7 @@ export const Index: Record<string, any> = {
     description: "Example showing a terminal with animated text.",
     type: "registry:example",
     registryDependencies: [
-      "https://raw.githubusercontent.com/magicuidesign/magicui/refs/heads/dillion/registry-v0-fix/public/r/terminal.json",
+      "https://raw.githubusercontent.com/magicuidesign/magicui/refs/heads/dillion/cache-break-test/public/r/terminal.json",
     ],
     files: [
       {

@@ -1463,7 +1463,7 @@ export const examples: Registry["items"] = [
     title: "Terminal Demo",
     description: "Example showing a terminal with animated text.",
     registryDependencies: [
-      "https://raw.githubusercontent.com/magicuidesign/magicui/refs/heads/dillion/registry-v0-fix/public/r/terminal.json",
+      "https://raw.githubusercontent.com/magicuidesign/magicui/refs/heads/dillion/cache-break-test/public/r/terminal.json",
     ],
     files: [
       {

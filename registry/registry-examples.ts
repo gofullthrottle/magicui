@@ -319,7 +319,9 @@ export const examples: Registry["items"] = [
     type: "registry:example",
     title: "Marquee Demo",
     description: "Example showing an infinite scrolling component.",
-    registryDependencies: ["https://magicui.design/r/marquee"],
+    registryDependencies: [
+      "https://raw.githubusercontent.com/magicuidesign/magicui/refs/heads/dillion/registry-v0-fix/public/r/marquee.json",
+    ],
     files: [
       {
         path: "example/marquee-demo.tsx",

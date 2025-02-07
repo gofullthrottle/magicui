@@ -1983,7 +1983,9 @@ export const Index: Record<string, any> = {
     name: "marquee-demo",
     description: "Example showing an infinite scrolling component.",
     type: "registry:example",
-    registryDependencies: ["https://magicui.design/r/marquee"],
+    registryDependencies: [
+      "https://raw.githubusercontent.com/magicuidesign/magicui/refs/heads/dillion/registry-v0-fix/public/r/marquee.json",
+    ],
     files: [
       {
         path: "registry/example/marquee-demo.tsx",

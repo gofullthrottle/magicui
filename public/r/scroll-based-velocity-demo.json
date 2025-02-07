@@ -10,7 +10,7 @@
   "files": [
     {
       "path": "registry/example/scroll-based-velocity-demo.tsx",
-      "content": "import { VelocityScroll } from \"@/components/magicui/scroll-based-velocity\";\n\nexport default function ScrollBasedVelocityDemo() {\n  return <VelocityScroll>Velocity Scroll</VelocityScroll>;\n}\n",
+      "content": "import { VelocityScroll } from \"@/components/ui/scroll-based-velocity\";\n\nexport default function ScrollBasedVelocityDemo() {\n  return <VelocityScroll>Velocity Scroll</VelocityScroll>;\n}\n",
       "type": "registry:example",
       "target": "components/scroll-based-velocity-demo.tsx"
     }

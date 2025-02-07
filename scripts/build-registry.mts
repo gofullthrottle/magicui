@@ -159,7 +159,7 @@ async function buildRegistry() {
         if (file.content?.includes("@/registry/magicui")) {
           file.content = file.content?.replaceAll(
             "@/registry/magicui",
-            "@/components/magicui",
+            "@/components/ui",
           );
         }
         return file;
